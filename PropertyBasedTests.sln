@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PropertyBasedTests", "PropertyBasedTests.fsproj", "{0C8C7ABA-9FA1-46FB-93C5-6A1A97A02A51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C8C7ABA-9FA1-46FB-93C5-6A1A97A02A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8C7ABA-9FA1-46FB-93C5-6A1A97A02A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8C7ABA-9FA1-46FB-93C5-6A1A97A02A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8C7ABA-9FA1-46FB-93C5-6A1A97A02A51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A419398-C8C3-4E54-B0F8-2B8C06AE85D2}
+	EndGlobalSection
+EndGlobal
